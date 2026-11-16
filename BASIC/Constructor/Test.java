@@ -1,0 +1,13 @@
+class Test{
+    int i;
+    String s;
+    public static void main(String[] args){
+        Test t = new Test();
+        System.out.println(t.i+" "+t.s);
+    }
+}
+// default construtor
+// made by compiler
+// because good programming need constructor
+// here default constructor is created automatically when we make an object
+// and it intialize the instance variable
